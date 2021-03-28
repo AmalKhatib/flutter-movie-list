@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app/modle/movie.dart';
+import 'package:movies_app/model/movie.dart';
 
 class MovieItemThumbnail extends StatelessWidget {
   final String thumbnail;

@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:movies_app/modle/movie.dart';
+import 'package:movies_app/model/movie.dart';
 
 import 'movie_ui.dart';
 
