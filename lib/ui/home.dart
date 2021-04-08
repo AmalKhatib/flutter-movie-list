@@ -66,6 +66,7 @@ class MoviesList extends StatelessWidget {
         ),
       ),
       onTap: () {
+        //go to movie details
         Navigator.push(
             context,
             MaterialPageRoute(
